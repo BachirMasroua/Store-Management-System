@@ -1,1 +1,1 @@
-# NewRepo
+# Store Management System
